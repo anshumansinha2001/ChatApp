@@ -15,8 +15,7 @@ export const SocketContextProvider = ({ children }) => {
 
   useEffect(() => {
     if (authUser) {
-      const API = import.meta.env.VITE_APP_URI_API;
-      const socket = io(API, {
+      const socket = io("https://chatapp-fl67.onrender.com", {
         query: {
           userId: authUser._id,
         },
