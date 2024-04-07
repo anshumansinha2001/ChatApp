@@ -1,4 +1,4 @@
-[![Project Banner](coverPic.png)]
+![Project Banner](coverPic.png)
 
 # Awesome Chatting Web Application
 
@@ -44,7 +44,7 @@ To get started with this project, follow these steps:
 
 ## Acknowledgments
 
-This project was inspired by [burakorkmez](https://github.com/burakorkmez) on YouTube. A special thanks to their YT Channel [As a Programmer] for their guidance and tutorials.
+This project was inspired by [burakorkmez](https://github.com/burakorkmez). A special thanks to their YT Channel [ As a Programmer ] for their guidance and tutorials.
 
 ---
 
