@@ -1,4 +1,0 @@
-<--- BACKEND --->
-1. express, monodb
-2. bycryptjs (For hasing password)
-3. JWT (for generating tokens for users)
