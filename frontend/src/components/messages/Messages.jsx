@@ -16,7 +16,7 @@ const Messages = () => {
   }, [messages]);
 
   return (
-    <div className="max-h-[350px] md:max-h-[450px] px-4 flex-1 overflow-auto">
+    <div className="max-h-[335px] md:max-h-[450px] px-4 flex-1 overflow-auto">
       {!loading &&
         messages.length > 0 &&
         messages.map((message) => (
